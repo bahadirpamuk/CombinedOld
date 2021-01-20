@@ -1,0 +1,190 @@
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//13.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//17.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//19.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//23.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//29.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//31.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//37.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//41.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//43.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//47.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//13.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//17.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//19.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//23.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//29.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//31.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//37.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//41.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//43.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//47.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//13.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//17.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//19.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//23.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//29.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//31.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//37.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//41.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//43.txt
+L_23_1=	40.000000	U_23_1=	1351.000000
+L_23_2=	80.000000	U_23_2=	1334.000000
+L_23_3=	120.000000	U_23_3=	1317.000000
+L_23_4=	160.000000	U_23_4=	1300.000000
+L_23_5=	200.000000	U_23_5=	1283.000000
+L_23_6=	240.000000	U_23_6=	1266.000000
+L_23_7=	280.000000	U_23_7=	1249.000000
+L_23_8=	320.000000	U_23_8=	1232.000000
+L_23_9=	360.000000	U_23_9=	1215.000000
+L_23_10=	400.000000	U_23_10=	1198.000000
+L_23_11=	440.000000	U_23_11=	1181.000000
+L_23_12=	480.000000	U_23_12=	1164.000000
+L_23_13=	520.000000	U_23_13=	1147.000000
+L_23_14=	560.000000	U_23_14=	1130.000000
+L_23_15=	600.000000	U_23_15=	1113.000000
+L_23_16=	640.000000	U_23_16=	1096.000000
+L_23_17=	680.000000	U_23_17=	1079.000000
+L_23_18=	720.000000	U_23_18=	1062.000000
+L_23_19=	760.000000	U_23_19=	1045.000000
+L_23_20=	800.000000	U_23_20=	1028.000000
+L_23_21=	840.000000	U_23_21=	1011.000000
+L_23_22=	880.000000	U_23_22=	994.000000
+L_23_23=	920.000000	U_23_23=	977.000000
+L_23_24=	960.000000	U_23_24=	0.000000
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//47.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_6//13.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_6//17.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_6//19.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_6//23.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_6//29.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_6//31.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_6//37.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_6//41.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_6//43.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_6//47.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_3//13.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_3//17.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_3//19.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_3//23.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_3//29.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_3//31.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_3//37.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_3//41.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_3//43.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_3//47.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_6//13.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_6//17.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_6//19.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_6//23.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_6//29.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_6//31.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_6//37.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_6//41.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_6//43.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_5_6//47.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_3//13.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_3//17.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_3//19.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_3//23.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_3//29.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_3//31.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_3//37.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_3//41.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_3//43.txt
+L_23_1=	40.000000	U_23_1=	2035.000000
+L_23_2=	80.000000	U_23_2=	2018.000000
+L_23_3=	120.000000	U_23_3=	2001.000000
+L_23_4=	160.000000	U_23_4=	1984.000000
+L_23_5=	200.000000	U_23_5=	1967.000000
+L_23_6=	240.000000	U_23_6=	1950.000000
+L_23_7=	280.000000	U_23_7=	1933.000000
+L_23_8=	320.000000	U_23_8=	1916.000000
+L_23_9=	360.000000	U_23_9=	1899.000000
+L_23_10=	400.000000	U_23_10=	1882.000000
+L_23_11=	440.000000	U_23_11=	1865.000000
+L_23_12=	480.000000	U_23_12=	1848.000000
+L_23_13=	520.000000	U_23_13=	1831.000000
+L_23_14=	560.000000	U_23_14=	1814.000000
+L_23_15=	600.000000	U_23_15=	1797.000000
+L_23_16=	640.000000	U_23_16=	1780.000000
+L_23_17=	680.000000	U_23_17=	1763.000000
+L_23_18=	720.000000	U_23_18=	1746.000000
+L_23_19=	760.000000	U_23_19=	1729.000000
+L_23_20=	800.000000	U_23_20=	1712.000000
+L_23_21=	840.000000	U_23_21=	1695.000000
+L_23_22=	880.000000	U_23_22=	1678.000000
+L_23_23=	920.000000	U_23_23=	1661.000000
+L_23_24=	960.000000	U_23_24=	1644.000000
+L_23_25=	1000.000000	U_23_25=	1627.000000
+L_23_26=	1040.000000	U_23_26=	1610.000000
+L_23_27=	1080.000000	U_23_27=	1593.000000
+L_23_28=	1120.000000	U_23_28=	1576.000000
+L_23_29=	1160.000000	U_23_29=	1559.000000
+L_23_30=	1200.000000	U_23_30=	1542.000000
+L_23_31=	1240.000000	U_23_31=	1525.000000
+L_23_32=	1280.000000	U_23_32=	1508.000000
+L_23_33=	1320.000000	U_23_33=	1491.000000
+L_23_34=	1360.000000	U_23_34=	1474.000000
+L_23_35=	1400.000000	U_23_35=	1457.000000
+L_23_36=	1440.000000	U_23_36=	0.000000
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_3//47.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_6//13.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_6//17.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_6//19.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_6//23.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_6//29.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_6//31.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_6//37.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_6//41.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_6//43.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_3_6//47.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_3//13.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_3//17.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_3//19.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_3//23.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_3//29.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_3//31.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_3//37.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_3//41.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_3//43.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_3//47.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_6//13.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_6//17.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_6//19.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_6//23.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_6//29.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_6//31.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_6//37.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_6//41.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_6//43.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//3_2_5_6//47.txt
+
+
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//13.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//17.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//19.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//23.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//29.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//31.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//37.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//41.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//43.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_3//47.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//13.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//17.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//19.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//23.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//29.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//31.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//37.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//41.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//43.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//1_0.5_2_6//47.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//13.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//17.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//19.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//23.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//29.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//31.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//37.txt
+C://Users//bahadir//Desktop//CoPro//INSTANCES//2_2_3_3//41.txt

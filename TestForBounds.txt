@@ -1,0 +1,33 @@
+c Deliberate and Controlled Co - production Dynamic Lot Sizing Problem
+c p - Problem Description
+c p - Period CPUCount ProductCount
+c a - Alphas for Products
+c a - CPU a1 a2 a3...
+c f - Fixed Costs for Periods
+c f - CPU f1 f2 f3...
+c v - Variable Cost for Periods
+c v - CPU c1 c2 c3...
+c d - Demand for Products
+c d - PRO d1 d2 d3...
+c h - Holding Cost for Products
+c h - PRO h1 h2 h3...
+c FILE START
+p 3 3 4
+a 1 2 2 1 0
+a 2 2 1 0 0
+a 3 0 0 0 1
+f 1 1098 1098 1098
+f 2 306 306 306
+f 3 460 460 460
+v 1 54 54 54
+v 2 54 54 54
+v 3 54 54 54
+d 1 50 10 150
+d 2 10 60 10
+d 3 20 20 20
+d 4 5 5 5
+h 1 1 1 1 1
+h 2 1 1 1 1
+h 3 1 1 1 1
+h 4 1 1 1 1
+c FILE END

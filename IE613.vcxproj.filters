@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Common.cpp" />
+    <ClCompile Include="DCCP.cpp" />
+    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="BasicModel.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicModel_S-Free.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="ELS1.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="ELS1_LP.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="ELS2.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="ELS1_LP2.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Backlog_BasicModel.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="ELS2_LP2.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="PatternFitting.cpp">
+      <Filter>Heuristic</Filter>
+    </ClCompile>
+    <ClCompile Include="Heuristic.cpp">
+      <Filter>Heuristic</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicModelCallback.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="WW.cpp">
+      <Filter>Heuristic</Filter>
+    </ClCompile>
+    <ClCompile Include="GenericCallback.cpp">
+      <Filter>Callback</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicModelwithZ.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Backlog_Benders.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="PatternFittingBacklog.cpp">
+      <Filter>Heuristic</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicModelDummy.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="WagnerWhitin.cpp">
+      <Filter>DP</Filter>
+    </ClCompile>
+    <ClCompile Include="WagnerWhitinVariable.cpp">
+      <Filter>DP</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DCCP.h" />
+    <ClInclude Include="PatternFitting.h">
+      <Filter>Heuristic</Filter>
+    </ClInclude>
+    <ClInclude Include="Heuristic.h">
+      <Filter>Heuristic</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicModel.h">
+      <Filter>Models\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Backlog_BasicModel.h">
+      <Filter>Models\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicModel_S-Free.h">
+      <Filter>Models\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ELS1.h">
+      <Filter>Models\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ELS1_LP.h">
+      <Filter>Models\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ELS1_LP2.h">
+      <Filter>Models\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ELS2.h">
+      <Filter>Models\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ELS2_LP2.h">
+      <Filter>Models\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Models\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicModelCallback.h">
+      <Filter>Models\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="WW.h">
+      <Filter>Heuristic</Filter>
+    </ClInclude>
+    <ClInclude Include="GenericCallback.h">
+      <Filter>Callback</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicModelwithZ.h">
+      <Filter>Models\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Backlog_Benders.h">
+      <Filter>Models\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="PatternFittingBacklog.h">
+      <Filter>Heuristic</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicModelDummy.h">
+      <Filter>Models\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="WagnerWhitin.h">
+      <Filter>DP</Filter>
+    </ClInclude>
+    <ClInclude Include="WagnerWhitinVariable.h">
+      <Filter>DP</Filter>
+    </ClInclude>
+    <ClInclude Include="Date.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Models">
+      <UniqueIdentifier>{e2121195-1b29-4f19-9111-435be68bd7b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Heuristic">
+      <UniqueIdentifier>{2daf23bb-b35d-4868-af08-c7f22f4913d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models\Headers">
+      <UniqueIdentifier>{7ffd6c59-7d3f-4028-8cc2-5403db0133d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Callback">
+      <UniqueIdentifier>{24fd9074-93db-4c43-9802-0c2cf5690dcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DP">
+      <UniqueIdentifier>{ae39bdc8-59ea-4bc3-a02f-9074c9916f99}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

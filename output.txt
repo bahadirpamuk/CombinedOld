@@ -1,0 +1,7 @@
+20 min no early termination of cut generating
+Epsilon 0.1 - CplexCuts On - 20 min
+0.0279982	77650.4	0	-1	3.04118	94025.9	99220.4	1196.98	96927.3	1.13495	34531	360	8783	60240	0	2147483647
+==========
+20 min with early termination of cut generating, max 1 callback per node
+Epsilon 0.1 - CplexCuts On - 20 min
+0.00812901	77650.4	0	-1	1.88713	93797.6	102251	1198.14	96970.4	1.36417	29475	360	6848	27095	0	2147483647
